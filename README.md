@@ -20,8 +20,8 @@ Fourteen instrumental tracks for Album 117. No vocals. Morning praise. Quiet wor
 14. Amen
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album117_Instrumentals_Morning_Praise/releases/tag/117.0.0
-Archive: album-117-instrumentals-morning-praise-cover
-Zenodo: https://doi.org/10.5281/zenodo.24241575
+1. GitHub: https://github.com/KJC-DNN/Album117_Instrumentals_Morning_Praise/releases/tag/117.0.0
+2. Archive: album-117-instrumentals-morning-praise-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24241575
 
 All Glory to Lord Jesus Christ.
